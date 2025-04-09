@@ -1,0 +1,4 @@
+{
+    "rawDataRxIpAddress": "192.168.1.99",
+    "controlDataTxIpAddress": "192.168.1.100"
+}
